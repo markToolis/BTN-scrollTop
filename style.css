@@ -1,6 +1,9 @@
 body{
     background: #000;
 }
+h1{
+  color:rgb(175, 167, 167);
+}
 .box{
   width: 400px;
   height: 304px;
